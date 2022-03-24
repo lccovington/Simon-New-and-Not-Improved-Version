@@ -61,7 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://cdn.glitch.global/98ef0f48-5cc0-4a31-a409-6246e86907c5/interview_video.mp4?v=1648134816659)
 
 
 ## License
