@@ -6,7 +6,8 @@ Submitted by: **Lacie Covington**
 
 Time spent: **3** hours spent in total
 
-Link to project: [Here](https://smiling-workable-princess.glitch.me)
+Link to project: [Here](
+https://glitch.com/edit/#!/smiling-workable-princess)
 
 ## Required Functionality
 
@@ -49,14 +50,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
   - cssreference.io
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+  - One challenge I encountered when creating this submission was that I couldn't get the StopGame() function to work no matter what I did. The StartGame() function worked just fine but I couldn't figure out what was wrong with the StopGame() function. At first I thought that since I was typing the code myself and not copying and pasting (copy work is a great way to learn something), I must have just typed up the code wrong so I deleted everything and copy/paste from the pre-work. When that didn't work, I deleted everything from the StopGame() function and only put a console.log() in the function and tried calling the function to see if it would print in the console. When that didn't work, I tried googling my problem, reading through Stackoverflow but I wasn't finding what I needed. After taking a break and coming back to the code, I started carefully reading my whole script.js file line by line to see if there was something I was missing. After reading through my code and matching the curly braces up, I realize the reason why the StopGame() function wasn't working was because it was inside the StartGame() function. After fixing my mistake, I had no more troubles after that.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+  - One question I have is is it possible to improve my code even more than what I already have or is it as optimized as it can get? How would someone know when their code is as optimized as it can get? Is there such a thing as 'perfect code' and how would someone be able to produce perfect code? Would my game be better (design and performance wise) if I had used a framework (like Ruby on Rails, Django, Angular, React, etc.) instead of plain HTML/CSS/JavaScript? When is it best to use a framework rather than plain vanilla JavaScript? How can I make my game more accessible to users?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+  - One thing I want to do is completely change the theme of the project. While I would keep the required functionalities of the game, I would change the design of the game into something I'm interested in. One idea I had was a hip-hop themed Simon game. The buttons would be different hip hop artists and the sounds when clicked would be one of their songs. If a user guesses wrong, then they lose the game. However, if a user guesses a pattern correctly, they'll get a brand new pattern with brand hip hop artists. They'll have a high score that keeps track of how many patterns they successfully guessed and when they want to stop, their score will appear on a global scoreboard with the scores of everyone else who has ever played the game. Another ideas include a kpop themed Simon game or a stand up comedy themed game.
 
 
 ## Interview Recording URL Link
